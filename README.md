@@ -42,7 +42,7 @@ src="https://files.catbox.moe/xd8cvb.jpg">
 <p align="center">
     <strong>2. GET SESSION ID</strong>
     <br>
-    <a href="https://vesper-xmd-pair-iy51.onrender.com/" target="_blank">
+    <a href="https://vesper-xmd-pair.jexp.top" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
@@ -50,7 +50,7 @@ src="https://files.catbox.moe/xd8cvb.jpg">
 <p align="center">
     <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
     <br>
-    <a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
+    <a href="https://jexploit-pair.jexp.top" target="_blank">
         <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
     </a>
 </p>
