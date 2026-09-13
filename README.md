@@ -1,227 +1,254 @@
+<div align="center">
 
+<img src="https://files.catbox.moe/xd8cvb.jpg" alt="Vesper-Xmd Banner" width="100%">
 
-<img align="center" height="auto"
-src="https://files.catbox.moe/xd8cvb.jpg">
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=V+I+N+I+C+💯+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=815&height=60&lines=V+E+S+P+E+R+%F0%9F%92%AF)](https://git.io/typing-svg)
+
 <br>
 
-   </p>
-<p align="center">
-<a href="https://github.com/Kevintech-hub"><img title="Author" src="https://img.shields.io/badge/Kelvin Tech-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/256742932677"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/> 
-
- <p align="center">
-<a href="https://github.com/Kevintech-hub/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=purple&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Vinic-Xmd-?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Vesper-Xmd?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Vesper-Xmd?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Vesper-Xmd?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FVinic-Xmd-&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-
-<p align="center">
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=blue" />
+<!-- AUTHOR BADGES -->
+<a href="https://github.com/Kevintech-hub">
+  <img title="Author" src="https://img.shields.io/badge/Kelvin%20Tech-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<p align="center">
-  <a href="https://github.com/Kevintech-hub/Vesper-Xmd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+<a href="https://youtube.com/@kelvindev-f1x?si=twHVU-yKVa0eXtm3">
+  <img title="YouTube" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://wa.me/256742932677">
+  <img title="Contact" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<br><br>
 
-<p align="center">
-    <strong>1. JOIN WHATSAPP CHANNEL</strong>
-  <br>
-    <a href="https://whatsapp.com/channel/0029Vb725SbIyPtOEG92nA04" target="_blank">
-        <img alt="Join now" src="https://img.shields.io/badge/Join now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
-    </a>
-</p>
+<!-- REPO STATS BADGES -->
+<a href="https://github.com/Kevintech-hub/followers">
+  <img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=6A5ACD&style=flat-square&label=Followers">
+</a>
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/stargazers/">
+  <img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Vesper-Xmd?color=6A5ACD&style=flat-square&label=Stars">
+</a>
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/network/members">
+  <img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Vesper-Xmd?color=6A5ACD&style=flat-square&label=Forks">
+</a>
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/watchers">
+  <img title="Watchers" src="https://img.shields.io/github/watchers/Kevintech-hub/Vesper-Xmd?color=6A5ACD&style=flat-square&label=Watchers">
+</a>
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd">
+  <img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Vesper-Xmd?style=flat-square&color=6A5ACD&label=Size">
+</a>
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FVesper-Xmd&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
+</a>
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/graphs/commit-activity">
+  <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-6A5ACD.svg">
+</a>
 
-<p align="center">
-    <strong>2. GET SESSION ID</strong>
-    <br>
-    <a href="https://vesper-xmd-pair.jexp.top" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-    </a>
-</p>
+<br><br>
 
-<p align="center">
-    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
-    <br>
-    <a href="https://jexploit-pair.jexp.top" target="_blank">
-        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
-    </a>
-</p>
+<!-- RELEASE BADGES -->
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd">
+  <img title="Language" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=6A5ACD">
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd">
+  <img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor">
+</a>
 
+<br><br>
 
-<p align="center">
-    <strong>4. JOIN WHATSAPP GROUP</strong>
-    <br>
-    <a href="https://chat.whatsapp.com/LSbOiemulBC5eyiCrLcYub?mode=gi_t" target="_blank">
-        <img alt="Join" src="https://img.shields.io/badge/Join-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
-    </a>
-</p>
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
 
-<p align="center">
-    <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
-    <br>
-    <a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
-        <img alt="Join group" src="https://img.shields.io/badge/Join group-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
-    </a>
-</p>
+</div>
 
-> 📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working..
+<br>
 
+## 🔗 Quick Links
 
-### 🚀 Fork the Repository
+<div align="center">
 
-To start, fork this repository to your own GitHub account by clicking the button below:
+| | |
+|:---:|:---|
+| **1. Join WhatsApp Channel** | [![Join Channel](https://img.shields.io/badge/JOIN%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb725SbIyPtOEG92nA04) |
+| **2. Get Session ID** | [![Get Pair Code](https://img.shields.io/badge/GET%20PAIR%20CODE-FF6B6B?style=for-the-badge&logo=keycdn&logoColor=white)](https://vesper-xmd-pair.jexp.top) |
+| **3. Get Session ID (Alt)** | [![Alt Pair](https://img.shields.io/badge/ALTERNATIVE%20PAIR-4ECDC4?style=for-the-badge&logo=keycdn&logoColor=white)](https://jexploit-pair.jexp.top) |
+| **4. Join WhatsApp Group** | [![Join Group](https://img.shields.io/badge/JOIN%20GROUP-FFA62B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LSbOiemulBC5eyiCrLcYub?mode=gi_t) |
+| **5. Join Telegram Support** | [![Join Telegram](https://img.shields.io/badge/JOIN%20TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VinicSupportDsfCrewDevs) |
+| **6. Discussion Forum** | [![Discussion Forum](https://img.shields.io/badge/DISCUSSION%20FORUM-9B59B6?style=for-the-badge&logo=google-chat&logoColor=white)](https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W) |
 
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Vesper-Xmd?style=for-the-badge&logo=github&color=4c1&label=Fork%2FVESPER-XMD" alt="Fork Vinic-Xmd" /></a>
+</div>
 
-<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+> 📥 Quickly connect your WhatsApp by generating a secure pairing code — if the inbuilt pairing isn't working.
 
+<div align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</div>
 
+<br>
+
+## 🚀 Fork the Repository
+
+<div align="center">
+
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/fork">
+  <img src="https://img.shields.io/github/forks/Kevintech-hub/Vesper-Xmd?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Vesper-Xmd">
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</div>
+
+<br>
+
+## 📦 Deployment Options
+
+<div align="center">
+
+<!-- JEXPLOIT PLATFORM — FIRST OPTION -->
+### 🚀 Jexploit Platform Deployment
+<sub>Deploy directly on Jexploit hosting platform</sub>
+<br><br>
+
+<a href="https://hostnest.jexp.top" target="_blank">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20JEXPLOIT-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- PANEL / DISCORD -->
+### 🎮 Discord / Panel Deployment
+<sub>Download bot files for panel hosting</sub>
+<br><br>
+
+<a href="https://github.com/Kevintech-hub/Vesper-Xmd/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- HEROKU -->
+### ⚡ Heroku Deployment
+<sub>Deploy directly to Heroku cloud</sub>
+<br><br>
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Vesper-Xmd/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- KATABUMP -->
+### ☁️ Katabump Deployment
+<sub>Deploy on Katabump hosting platform</sub>
+<br><br>
+
+<a href="https://dashboard.katabump.com/auth/login#203630">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20KATABUMP-6962a6?style=for-the-badge&logo=cloud&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- BOT-HOSTING -->
+### 🤖 Bot-Hosting Deployment
+<sub>Deploy on specialized bot hosting</sub>
+<br><br>
+
+<a href="https://bot-hosting.net/?aff=1231885228566646795">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20BOT--HOSTING-9772a6?style=for-the-badge&logo=robot&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- RAILWAY -->
+### 🚂 Railway Deployment
+<sub>Deploy on Railway platform</sub>
+<br><br>
+
+<a href="https://railway.app/new?template=https://github.com/Kevintech-hub/Vesper-Xmd">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- RENDER -->
+### 🖥️ Render Deployment
+<sub>Deploy on Render cloud platform</sub>
+<br><br>
+
+<a href="https://render.com/deploy?repo=https://github.com/Kevintech-hub/Vesper-Xmd">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="50%">
+<br><br>
+
+<!-- KOYEB -->
+### 🟣 Koyeb Deployment
+<sub>Deploy on Koyeb platform</sub>
+<br><br>
+
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/Kevintech-hub/Vesper-Xmd">
+  <img src="https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
+</a>
+
+<br><br>
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+
+</div>
+
+<br>
+
+## 📋 How to Deploy on Panels
+
+> Follow these steps carefully for successful panel deployment.
+
+1. **Fork** the repository.
+2. If already forked, **sync** the fork repository.
+3. Click the green **Code** button → **Download as ZIP**.
+4. **Upload** the script ZIP file to your **panel**.
+5. **Unarchive** the uploaded ZIP file.
+6. Open the unarchived folder and **move** all files to container by typing (`../`).
+7. Go to **Console** and **start** the bot.
+8. Wait **5–10 minutes** for the prompt to enter your number.
+9. Enter your number when requested to get the **pair code**.
+10. Enter the pair code in **Linked Devices** on WhatsApp.
+11. ✅ **Deployment successful!**
+
+<div align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</div>
+
+<br>
 
 <details>
-<summary> 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
- 
- **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
+<summary><b>🛠️ Manual Installation</b></summary>
+
 <br>
-> Click below to download the bot file :
-<p align="left">
-<a href="https://github.com/Kevintech-hub/Vesper-Xmd/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**Deploy on Heroku**
-<p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Vesper-Xmd/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
-</p>
+### Requirements
+- [Node.js](https://nodejs.org/en/)
+- [Git](https://git-scm.com/downloads)
+- [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+- [Libwebp](https://developers.google.com/speed/webp/download)
+- Any text editor
 
-  
-> Click below to deploy on Katabump :
-<p align="left">
-  <a href="https://dashboard.katabump.com/auth/login#203630">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
-  </a>
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-  
-> Click below to deploy on Bot-Hosting :
-<p align="left">
-  <a href="https://bot-hosting.net/?aff=1231885228566646795">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
-  </a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
- </a>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘖𝘕 𝘗𝘈𝘕𝘌𝘓𝘚</summary>
- 
-1. `Fork` the Repository.
-2. If already forked then `sync` fork repository.
-3. Click on the green `Code` button and click `download as zip`.
-4. `Upload` the script zip file to your `panel`.
-5. `Unarchieve` the uploaded zip file.
-6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
-7. Now go to `console` and `start` bot.
-8. Wait for `5-10 mins` to enter your number.
-9. Enter your number when requested to get the pair code.
-10. Enter pair code in link devices in whatsapp.
-11. Deployment successful.
-</details>
- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<details>
-<summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
-  
-## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-  
-## `CLONE REPO & INSTALLATION DEPENDENCIES`
+### Clone Repo & Install Dependencies
 ```bash
-git clone https://github.com/<your gitHub Username>/Vesper-Xmd-.git
-cd Vesper-Xmd- 
+git clone https://github.com/<your-github-username>/Vesper-Xmd.git
+cd Vesper-Xmd
 npm start
-```
-
-## `FOR SSH/UBUNTU/LINUX`
-```bash
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install -y bash
-sudo apt-get install -y libwebp
-sudo apt-get install -y git
-sudo apt-get install -y nodejs
-sudo apt-get install -y ffmpeg
-sudo apt-get install -y wget
-sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/Vesper-Xmd-
-cd Vesper-Xmd-
-npm install
-npm start
-```
-
-## `FOR TERMUX`
-```bash
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
-cd /sdcard
-cd bot folder name
-yarn install
-npm start
-```
-
-## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
-```
-</details>
-
-##
-<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
-</h2>
-
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-### Thank You Dear
-
-> DEVELOPER OF Vesper-Xmd 
-- [KEVINTECH](https://github.comTKevintech-hub)
-- Creator and Owner Of Vesper-Xmd 
-
-> Vesper-Xmd Helper
-- [Malvin King](https://github.com/XdKing2)
-- For helping 
-- Bugs fixes
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-**© VESPER-XMD **
-##
-![MIT License](https://img.shields.io/badge/License-green.svg)
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
